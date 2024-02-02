@@ -1,0 +1,30 @@
+/* Header.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .nav-item {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 1rem;
+    
+  }
+  
+  .options-icon {
+    width: 24px;
+    height: 24px;
+    fill: #fff;
+    cursor: pointer;
+  }
+  
+  /* Additional styling as needed */
+  
